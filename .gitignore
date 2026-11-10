@@ -1,0 +1,30 @@
+
+# Временные файлы Word
+~$*.docx
+
+# Временные файлы редакторов
+*.tmp
+*.temp
+*.bak
+
+# Настройки IDE
+.vscode/
+.idea/
+
+# Системные файлы Windows
+Thumbs.db
+Desktop.ini
+
+# Системные файлы macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Локальные секреты
+.env
+*.key
+*.pem
